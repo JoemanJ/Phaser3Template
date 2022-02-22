@@ -16,4 +16,4 @@ export default new Phaser.Game({
             debug: true
         }
     }
-});
+})
