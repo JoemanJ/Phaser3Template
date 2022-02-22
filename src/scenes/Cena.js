@@ -17,3 +17,4 @@ export default class NOME_DA_CENA extends Phaser.Scene{
     update(){
 
     }
+}
