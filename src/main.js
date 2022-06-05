@@ -1,12 +1,12 @@
 import Phaser from './lib/phaser.js'
 
-import SCENE_NAME from './scenes/Cena.js'
+import scene from './scenes/Cena.js'
 
 export default new Phaser.Game({
     type: Phaser.AUTO,
     width: 800,
     height: 600,
-    scene: [Cena, ],
+    scene: [scene, ],
     physics: {
         default: 'arcade',
         arcade: {
