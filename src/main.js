@@ -1,6 +1,6 @@
 import Phaser from './lib/phaser.js'
 
-import Cena from './scenes/Cena.js'
+import SCENE_NAME from './scenes/Cena.js'
 
 export default new Phaser.Game({
     type: Phaser.AUTO,
